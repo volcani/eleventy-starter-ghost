@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: yoruneko.net
+Token: f578b8c8cbbd626dc8c02b8f89eb18243672bad81a5f54d43e42f860886849a8
